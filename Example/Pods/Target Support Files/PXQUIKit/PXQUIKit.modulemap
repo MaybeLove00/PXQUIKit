@@ -1,0 +1,6 @@
+framework module PXQUIKit {
+  umbrella header "PXQUIKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

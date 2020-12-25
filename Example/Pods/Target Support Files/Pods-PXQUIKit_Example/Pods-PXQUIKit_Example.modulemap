@@ -1,0 +1,6 @@
+framework module Pods_PXQUIKit_Example {
+  umbrella header "Pods-PXQUIKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'PXQUIKit_Example' do
+  pod 'PXQUIKit', :path => '../'
+
+  target 'PXQUIKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
