@@ -1,9 +1,9 @@
 {
   "name": "PXQUIKit",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "summary": "A short description of PXQUIKit.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/1551889052@qq.com/PXQUIKit",
+  "homepage": "https://github.com/MaybeLove00/PXQUIKit",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,8 +12,8 @@
     "1551889052@qq.com": "xq.pan@ctrip.com"
   },
   "source": {
-    "git": "https://github.com/1551889052@qq.com/PXQUIKit.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/MaybeLove00/PXQUIKit.git",
+    "tag": "0.0.1"
   },
   "platforms": {
     "ios": "9.0"
