@@ -1,6 +1,6 @@
 {
   "name": "PXQUIKit",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "summary": "A short description of PXQUIKit.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/MaybeLove00/PXQUIKit",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/MaybeLove00/PXQUIKit.git",
-    "tag": "0.0.1"
+    "tag": "0.0.3"
   },
   "platforms": {
     "ios": "9.0"
